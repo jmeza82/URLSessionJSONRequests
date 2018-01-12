@@ -1,2 +1,2 @@
 # URLSessionJSONRequests
-Example for GET and POST with URLSessionJSONRequest
+Example for GET and POST with URLSessionJSONRequest, Swift 3
